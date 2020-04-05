@@ -1,4 +1,29 @@
 ---
 label: Deault
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  description: The Layout of the Page (Page)
+  hidden: false
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: The title of the Page
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+  description: The permanent link of the page
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: Image to be uploaded
