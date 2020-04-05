@@ -1,27 +1,27 @@
-title: Derrick Wells – Independent Product Designer
+title: Jnanadarshan Nayak | Strategy Consultant
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/jdnayak_beta" # the subpath of your site, e.g. /blog
+description: Strategy guy with deep docus on "New Product Development", "Product Ideation" and "Capability Building"
+baseurl: "/jdnayak.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Jnanadarshan Nayak
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  job: Strategy Consultant
+  bio: Strategy consultant with focus on Capability Building and New Product Development
   email: forexample@website.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
+    link: https://twitter.com/jnanadarshan
   - name: Facebook
-    link: https://facebook.com/
+    link: https://facebook.com/jnanadarshan
   - name: Instagram
-    link: https://instagram.com/
+    link: https://instagram.com/jnanadarshan
 
 
 # Comment Section (Disqus)
