@@ -27,5 +27,3 @@ fields:
     maxSize: 250
   label: Image
   description: Image to be uploaded
-pages:
-- this-is-a-test-page.md
