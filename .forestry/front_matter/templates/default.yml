@@ -5,12 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  description: Value = post
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  description: Type = 2018-05-29 18:05:55
 - type: file
   name: image
   label: image
