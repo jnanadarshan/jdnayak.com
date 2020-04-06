@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
@@ -14,8 +15,9 @@ fields:
 - type: file
   name: image
   label: image
-- type: text
-  name: tags
-  label: tags
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - _posts/this-is-a-test-post.md
